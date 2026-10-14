@@ -1,0 +1,6 @@
+{
+  "name": "CodeMind AI",
+  "description": "AI-Powered Python Debugging and Machine Learning Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
